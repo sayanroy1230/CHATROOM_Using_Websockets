@@ -1,0 +1,181 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url("chat_bg.jpg");
+    font-family: Arial, sans-serif; 
+}
+
+#nav {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+#nav img {
+    height: 80px;
+    width: 80px;
+    background-color: white;
+}
+
+#nav h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: red;
+    margin: 5px 0;
+    background-color: white;
+    margin-bottom: 15px;
+}
+
+.container {
+    max-width: 1200px;
+    background-color: rgb(211, 144, 144);
+    border: 3px solid black;
+    margin: auto;
+    height: 460px;
+    border-radius: 10px;
+    overflow-y: auto;
+    padding: 23px;
+}
+
+.message {
+    max-width: 44%;
+    margin: 4px;
+    padding: 10px;
+}
+
+.messagestyle {
+    border: 2px solid black;
+    background-color: rgb(155, 145, 145);
+    border-radius: 10px;
+}
+
+.left {
+    float: left;
+    clear: both;
+}
+
+.lefttime{
+    margin-left: 16px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.right {
+    float: right;
+    clear: both;
+}
+
+.righttime{
+    margin-right:16px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.middle {
+    display: flex;
+    clear: both;
+    justify-content: center;
+    margin: auto;
+    margin-top:5px;
+    font-style: italic;
+    color: rgb(2, 16, 1);
+    padding: 21px;
+}
+
+#form_container {
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 1219px;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#messageinp {
+    width: 85%;
+    border: 3px solid black;
+    border-radius: 8px;
+    height: 30px;
+    background-color: rgb(211, 144, 144);
+}
+
+#btn {
+    border: 3px solid black;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(211, 144, 144);
+}
+
+#btn:hover{
+    background-color: red;
+}
+
+.namediv {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid red;
+    margin: auto;
+    background-color: white;
+    height: 172px;
+    width: 25%;
+    border-radius: 10px;
+    margin-top: 197px;
+}
+
+.namediv h2 {
+    color: white;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 54px;
+}
+
+#form_join {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    width: 91%;
+}
+
+#nameinp {
+    border: 3px solid black;
+    width: 97%;
+    border-radius: 5px;
+    height: 30px;
+}
+
+#join_btn {
+    border: 3px solid red;
+    margin-top: 8px;
+    width: 40px;
+    border-radius: 5px;
+    color:red;
+}
+
+#join_btn:hover {
+    background-color: red;
+    color:white;
+}
+
+@media only screen and (max-width: 768px) {
+    .message {
+        width: 48%;
+    }
+    .namediv {
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .message {
+        width: 100%;
+    }
+    .namediv {
+        width: 90%;
+    }
+}

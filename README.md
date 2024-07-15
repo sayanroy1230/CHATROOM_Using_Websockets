@@ -28,7 +28,7 @@ This repository contains the code for a chatroom application deployed using AWS 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sayanroy1230/CHATROOM_Using_socket.io.git
+    git clone https://github.com/sayanroy1230/CHATROOM_Using_Websockets.git
     cd CHATROOM_Using_socket.io
     ```
 2. Install dependencies:

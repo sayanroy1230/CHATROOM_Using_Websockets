@@ -1,6 +1,3 @@
-[click on this link](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com/) to join in CHATROOM which is deployed using AWS Elastic Beanstalk.
-
-
 # Chatroom Using Socket.io
 
 This repository contains the code for a chatroom application deployed using AWS Elastic Beanstalk. The application uses `socket.io` for real-time communication between clients.
@@ -51,7 +48,8 @@ This repository contains the code for a chatroom application deployed using AWS 
 
 ## Usage
 
-To join the chatroom, click [here](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com).
+[click on this link](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com/) to join in CHATROOM which is deployed using AWS Elastic Beanstalk.
+
 
 ## Contributing
 

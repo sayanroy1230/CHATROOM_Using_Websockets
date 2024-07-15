@@ -1,4 +1,4 @@
-# Chatroom Using Socket.io
+# Chatroom Using Websockets
 
 This repository contains the code for a chatroom application deployed using AWS Elastic Beanstalk. The application uses `socket.io` for real-time communication between clients.
 

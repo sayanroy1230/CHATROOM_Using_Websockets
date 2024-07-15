@@ -16,7 +16,11 @@ This repository contains the code for a chatroom application deployed using AWS 
 - HTML
 - CSS
 - JS
-  
+
+## Usage
+
+[click on this link](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com/) to join in CHATROOM which is deployed using AWS Elastic Beanstalk.
+
 ## Getting Started
 
 ### Installation
@@ -42,10 +46,6 @@ This repository contains the code for a chatroom application deployed using AWS 
 ### Deployment
 
 1. Follow the [AWS Elastic Beanstalk documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) to deploy the application.
-
-## Usage
-
-[click on this link](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com/) to join in CHATROOM which is deployed using AWS Elastic Beanstalk.
 
 
 

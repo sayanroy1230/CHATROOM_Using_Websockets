@@ -13,8 +13,10 @@ This repository contains the code for a chatroom application deployed using AWS 
 - Node.js
 - Express.js
 - Socket.io
-- HTML/CSS
-
+- HTML
+- CSS
+- JS
+  
 ## Getting Started
 
 ### Prerequisites

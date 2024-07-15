@@ -32,7 +32,9 @@ This repository contains the code for a chatroom application deployed using AWS 
     ```
 2. Install dependencies:
     ```bash
-    npm install
+    npm init
+    npm i socket.io
+    npm i cors
     ```
 
 ### Running Locally

@@ -53,29 +53,5 @@ This repository contains the code for a chatroom application deployed using AWS 
 [click on this link](http://chatroom-env.eba-k2ny8d3f.ap-south-1.elasticbeanstalk.com/) to join in CHATROOM which is deployed using AWS Elastic Beanstalk.
 
 
-## Contributing
 
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m 'Add new feature'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Socket.io](https://socket.io/)
-- [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 

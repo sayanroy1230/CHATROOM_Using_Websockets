@@ -19,11 +19,6 @@ This repository contains the code for a chatroom application deployed using AWS 
   
 ## Getting Started
 
-### Prerequisites
-
-- Node.js installed
-- AWS account
-
 ### Installation
 
 1. Clone the repository:

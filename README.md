@@ -45,7 +45,7 @@ This repository contains the code for a chatroom application deployed using AWS 
 
 ### Deployment
 
-1. Follow the [AWS Elastic Beanstalk documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) to deploy the application.
+ Follow the [AWS Elastic Beanstalk documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html) to deploy the application.
 
 
 
